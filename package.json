@@ -1,0 +1,25 @@
+{
+  "name": "hexo-deployer-ansible",
+  "version": "0.0.1",
+  "description": "Ansible deployer plugin of Hexo.",
+  "main": "index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": [
+    "hexo",
+    "ansible",
+    "deploy",
+    "deployer"
+  ],
+  "repository": "zyuyou/hexo-deployer-rsync",
+  "author": "Yuyou Chow <yuyouchow@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "hexo-util": "^0.5.3"
+  }
+}
