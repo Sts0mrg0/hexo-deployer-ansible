@@ -15,7 +15,7 @@
     "deploy",
     "deployer"
   ],
-  "repository": "zyuyou/hexo-deployer-rsync",
+  "repository": "zyuyou/hexo-deployer-ansible",
   "author": "Yuyou Chow <yuyouchow@gmail.com>",
   "license": "MIT",
   "dependencies": {
