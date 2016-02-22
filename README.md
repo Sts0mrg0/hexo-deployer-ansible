@@ -40,3 +40,5 @@ deploy:
 ## License
 
 MIT
+
+[Hexo]: http://hexo.io/
